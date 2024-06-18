@@ -3,6 +3,11 @@
 
 LangChain🦜🔗 powered generative AI application which crawls Linkedin & Twitter data about a person and customizes an ice breaker with them.
 
+## Demo
+
+https://github.com/ASAD128/profile_peek/assets/22412472/575d2356-af95-4786-af3a-9bf6c5be5a88
+
+
 
 ## Environment Variables
 

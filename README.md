@@ -8,7 +8,7 @@ LangChain🦜🔗 powered generative AI application which crawls Linkedin & Twit
 
 To run this project, you will need to add the following environment variables to your .env file
 
-`PYTHONPATH=/{YOUR_PATH_TO_PROJECT}/ice_breaker`
+`PYTHONPATH=/{YOUR_PATH_TO_PROJECT}/profile_peek`
 
 `OPENAI_API_KEY`
 
